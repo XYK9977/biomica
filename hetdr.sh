@@ -1,0 +1,1 @@
+python train.py --cuda 0 --lr 0.0002 --dim 512 --dataset hetionetdr --epochs 5000 --bio_dim 1068 --txt_dim 768
